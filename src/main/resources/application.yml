@@ -1,0 +1,9 @@
+# application.yml
+spring:
+  debug: true
+  application:
+    name: "file-watcher"
+
+file-watcher:
+  source-directory: C:\Users\Tinus\OneDrive\Desktop\TestOrigin
+  target-directory: C:\Users\Tinus\OneDrive\Desktop\TestDestination
